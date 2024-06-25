@@ -1,0 +1,15 @@
+basin
+toilet_bowl
+bathtub
+roof_ac
+smoke_detector
+lamp1
+lamp2
+ac_vent
+lamp3
+wall_ac
+fire_hydrant
+pump
+generator
+transformer
+pump_stand
